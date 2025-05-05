@@ -1,4 +1,4 @@
-## 🎮 Análisis de la sexualización en videojuegos
+## 🎮 Análisis del sexismo en videojuegos
 
 ### 📌 Descripción
 Este proyecto, realizado en el marco del bootcamp de Data Analytics de Adalab, tiene como objetivo explorar la representación de género y la sexualización en los videojuegos. A través del análisis exploratorio de datos (EDA) y la visualización interactiva en Power BI, investigamos cómo se representa a las mujeres tanto dentro del contenido de los videojuegos como en la propia industria que los desarrolla.
