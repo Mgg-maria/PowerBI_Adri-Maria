@@ -5,7 +5,7 @@ Este proyecto, realizado en el marco del bootcamp de Data Analytics de Adalab, t
 
 ### 📊 Dataset
 El análisis se ha realizado a partir del dataset público:
-👉 Gender Representation in Video Games
+[👉 Gender Representation in Video Games](https://www.kaggle.com/datasets/br33sa/gender-representation-in-video-games)
 
 Este conjunto de datos incluye tres archivos CSV con información sobre:
 
